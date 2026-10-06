@@ -4,7 +4,7 @@
     <main class="card">
       <h1 class="title">Welcome to Nuxt</h1>
       <p class="subtitle">
-        Edit <code>app/app.vue</code> to get merge conflict.
+        Edit <code>app/app.vue</code> to get going dude.
       </p>
       <div class="actions">
         <a class="btn btn-primary" href="https://nuxt.com/docs" target="_blank" rel="noopener">Read the docs</a>
