@@ -18,7 +18,7 @@
 :root {
   --purple: #7c3aed;
   --purple-dark: #2e1065;
-  --pink: #ec4899;
+  --pink: #ec4898;
   --yellow: #facc15;
   --text: #fdf4ff;
 }
